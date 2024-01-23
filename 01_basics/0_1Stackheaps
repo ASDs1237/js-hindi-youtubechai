@@ -1,0 +1,18 @@
+//stack(Primitive),Heap(Non-Primitive)
+//let myYoutubename="arvindkumar"
+//let anothername=myYoutubename
+//anothername="chaiarcode"
+
+//console.log(myYoutubename);
+//console.log(anothername);
+
+let userOne={
+    email:"user@google.com"
+    :"user@ybl"
+}
+let userTwo=userOne
+userTwo.email="arvindkumar"
+console.log(userOne.email);
+console.log(userTwo.email);
+
+
